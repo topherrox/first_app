@@ -5,6 +5,7 @@ ruby '2.1.2'
 gem 'heroku'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.5'
+gem 'rails_12factor'
 # Use sqlite3 as the database for Active Record
 group :development do
 	gem 'sqlite3'
