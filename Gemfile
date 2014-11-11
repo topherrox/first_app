@@ -7,6 +7,7 @@ gem 'rails', '4.1.5'
 group :development do
 	gem 'sqlite3'
 end
+gem 'pg'
 # Use SCSS for stylesheets
 group :assets do
 	gem 'sass-rails', '~> 4.0.3'
